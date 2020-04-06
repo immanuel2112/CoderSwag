@@ -34,6 +34,7 @@ class CategoryAdapter(context: Context, categories: List<Category>) : BaseAdapte
      * @return A View corresponding to the data at the specified position.
      */
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
+        println("this is a test to check the code in github")
         val categoryView: View
         val holder: ViewHolder
         if (convertView == null) { // To call the view inflation only once if already called. else reuse the holder
