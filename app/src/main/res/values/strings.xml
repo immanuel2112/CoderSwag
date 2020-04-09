@@ -3,4 +3,6 @@
     <string name="categories">Categories</string>
     <string name="image_view_for_category_list_item">image_view_for_category_list_item</string>
     <string name="example">example</string>
+    <string name="products">Products</string>
+    <string name="image_view_for_product_list_item">image_view_for_product_list_item</string>
 </resources>
